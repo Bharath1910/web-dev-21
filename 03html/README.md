@@ -5,4 +5,4 @@
 
 
 # Output
-![image](./03_output.png)
+![image](./img/03_output.png)
